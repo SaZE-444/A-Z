@@ -63,7 +63,10 @@
 //git remote -v (연결되어있는 저장소확인)
 //git checkout (연결된 브랜치확인)
 //git add .(넣을 파일)
+//git status (넣을파일 확인)
 //GIT_AUTHOR_DATE="2025-11-01T16:44:00"(작성날짜)
 //GIT_COMMITTER_DATE="2025-11-01T16:44:44" (커밋날짜)
+//GIT_AUTHOR_DATE="2025-11-01T16:44:00" GIT_COMMITTER_DATE="2025-11-01T16:44:00" git commit -m "Git & GitHub" (한줄로작성)
 //git commit -m "커밋메세지"
 //git push
+//git reset --soft HEAD~1 (n개 커밋 이전상태로 지우기/파일은 그대로)
